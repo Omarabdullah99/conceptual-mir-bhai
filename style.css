@@ -1,0 +1,21 @@
+h1{
+    text-align: center;
+}
+.apply{
+    text-align: center;
+}
+ul  {
+    font-size: 20px;
+    list-style: none;
+    
+}
+
+ul li{
+    margin-top: 20px;
+}
+
+.addItem{
+    border: 2px solid red;
+    padding: 20px 0px;
+    margin-top: 20px;
+}
